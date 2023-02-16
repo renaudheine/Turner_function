@@ -91,8 +91,3 @@ fun_turner <- function(country_1_iso3, country_2_iso3, yr_start, yr_end, value_t
 #fun_turner("GBR", "NLD", 2019, 2020, 100, 50, 0, 3)
 #fun_turner("USA", "NLD", 2018, 2014, 0, 4.4612e+09, 1, 2)
 
-
-
-
-
-
